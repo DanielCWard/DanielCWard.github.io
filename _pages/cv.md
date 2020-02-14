@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Resume Of Daniel Ward"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,9 +11,13 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* The University Of Queensland, B.Engg. Electrical and Computer Engineering, 2019
+  * Graduated with Honours Class I
+  * GPA: 6.438/7.0
+  * Weighted GPA: 6.652/7.0
+  * Graduated as an EAIT Scholar: Status awarded to the top 5% of the engineering cohort. 
+* Dalian Neusoft University of Information, Winter semester abroad, 2017
+* The National University Of Singapore, semester abroad, 2016
 
 Work experience
 ======
