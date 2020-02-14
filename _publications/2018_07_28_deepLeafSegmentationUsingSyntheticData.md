@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2018_07_28_deepLeafSegmentationUsingSyntheticData
 excerpt: ''
 date: 2018-07-28
-venue: 'CVPPP at BMVC 2018'
+venue: 'CVPPP at BMVC'
 paperurl: 'https://arxiv.org/abs/1807.10931'
 citation: 'D. Ward, P. Moghadam, and N. Hudson. Deep Leaf Segmentation Using Synthetic Data. In Proceedings of the British Machine Vision Conference (BMVC) Workshop on Computer Vision Problems in Plant Pheonotyping (CVPPP), 2018.'
 ---
